@@ -49,3 +49,5 @@ Shop has park kind arch benefit.
 Shop has park kind arch marry.
 
 Shop has park kind arch land.
+
+Shop has major.
