@@ -50,4 +50,8 @@ Shop has park kind arch marry.
 
 Shop has park kind arch land.
 
+Shop has park mark.
+
+Shop has park cross.
+
 Shop has major.
